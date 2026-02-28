@@ -1,0 +1,10 @@
+# Our History & Evolution
+The AING™ framework is the result of over a decade of research, experimentation, and collaboration across multiple industries. Our journey began not as a project to create a framework, but as a quest to solve the growing disconnect between legacy management practices and the capabilities of emerging AI.
+## Timeline of Development
+*   **2015-2017: The Genesis.** Initial research into the limitations of Agile at scale in data-intensive environments. The core concept of an "AI-driven project manager" was first prototyped.
+*   **2018-2020: The Core Principles.** The five foundational principles of AING™—Co-Intelligence, Orchestration, Transparency, Learning, and Rhythm—were codified through a series of private-sector pilot programs.
+*   **2021: The First Draft.** The AING-CF (Core Framework) was formally drafted and shared with a select group of academic and industry partners for review.
+*   **2022-2023: Module Development.** Specialized modules like AING-AM (Agile Matrix) and AING-GM (Governance & Management) were developed to address specific domain challenges.
+*   **2024: The Global Alliance.** The AING Global Alliance (AGA) was formed to act as the official steward of the framework, and AING™ v1.0 was released to the public.
+Our evolution is ongoing. The AING™ framework is a living entity, designed to adapt and grow with the rapid pace of technological change. The history of AING™ is still being written, and we invite you to be a part of its future.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero.

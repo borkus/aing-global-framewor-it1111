@@ -1,0 +1,10 @@
+# AING Global Alliance (AGA)
+The AING Global Alliance (AGA) is the independent, non-profit organization responsible for the stewardship and evolution of the AING™ framework. Our mission is to foster a global community of professionals and organizations dedicated to advancing the principles of AI-orchestrated work.
+## Our Role and Responsibilities
+The AGA serves several key functions to ensure the integrity, quality, and continued relevance of the AING™ framework:
+*   **Framework Stewardship:** We manage the official body of knowledge, oversee the release of new versions, and ensure the framework remains open and accessible.
+*   **Certification & Accreditation:** We develop and maintain the standards for AING™ certifications and accredit training partners and trainers to ensure high-quality education worldwide.
+*   **Community Building:** We support a global network of members, regional chapters, and online forums to facilitate knowledge sharing and collaboration.
+*   **Research & Thought Leadership:** We sponsor and publish research on the future of work, AI ethics, and intelligent governance, helping to shape the discourse and guide the industry.
+The AGA is governed by its members and led by a board of directors composed of industry pioneers, academic leaders, and AING™ Fellows. Our commitment is to serve the community and advance the practice of responsible, intelligent work management.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero.

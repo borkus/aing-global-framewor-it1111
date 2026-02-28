@@ -1,0 +1,12 @@
+# Partners & Alliances
+The AING™ framework is not built in isolation. Its strength and relevance come from a vibrant ecosystem of partners and alliances that contribute to its development, application, and dissemination. We collaborate with leading organizations across technology, consulting, and academia to create a comprehensive and robust ecosystem.
+## Our Partner Ecosystem
+We believe that collaboration is essential to driving meaningful change. Our partner program is designed to foster a community of excellence and innovation.
+### Technology Partners
+We partner with leading cloud providers, AI platform companies, and software vendors to ensure that the AING™ framework can be seamlessly integrated with the tools and platforms that organizations already use. These partnerships enable us to develop reference architectures and best practices for implementing AING™ in various technical environments.
+### Consulting & Training Partners
+Our global network of Accredited Training Partners (ATPs) and consulting firms are the hands-on experts who help organizations adopt and succeed with AING™. They provide official training, certification, and strategic consulting services to guide enterprises through their AI transformation journey.
+### Academic & Research Alliances
+We collaborate with universities and research institutions to advance the study of human-AI collaboration, intelligent governance, and the future of work. These alliances ensure that the AING™ framework is continuously informed by the latest academic research and contributes to the broader scientific discourse.
+By working together, we can accelerate the adoption of responsible, AI-orchestrated work practices and build a future where human and machine intelligence combine to achieve extraordinary outcomes.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero.
