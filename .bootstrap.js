@@ -24,7 +24,7 @@ try {
     updatePackageJson();
     
     // Update wrangler.jsonc if exists
-    updateWranglerJsonc();
+ //   updateWranglerJsonc();
     
     // Run setup commands
     runSetupCommands();
