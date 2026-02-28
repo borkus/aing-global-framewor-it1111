@@ -1,27 +1,28 @@
-import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react";
-import path from "path";
-import { cloudflare } from "@cloudflare/vite-plugin"; // <-- named import
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
+import path from 'path';
+import tailwindcss from 'tailwindcss';
+import autoprefixer from 'autoprefixer';
 
 export default defineConfig({
   plugins: [
     react(),
-    cloudflare({
-      dir: "dist",
-      injectFetch: true,
-    }),
   ],
   resolve: {
     alias: {
-      "@": path.resolve(__dirname, "./src"),
+      '@': path.resolve(__dirname, 'src'),
     },
   },
-  server: {
-    proxy: {
-      "/api": {
-        target: "http://127.0.0.1:8787",
-        changeOrigin: true,
-      },
+  css: {
+    postcss: {
+      plugins: [
+        tailwindcss,
+        autoprefixer,
+      ],
     },
+  },
+  build: {
+    sourcemap: true,
+    chunkSizeWarningLimit: 2000,
   },
 });
