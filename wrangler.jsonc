@@ -1,5 +1,8 @@
 {
-  "name": "aing-global-framework",
-  "pages_build_output_dir": "dist",
-  "compatibility_date": "2025-04-24"
+  "name": "aing-global-framewor-it1111",
+  "compatibility_date": "2025-04-24",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
 }
