@@ -24,7 +24,7 @@ try {
     updatePackageJson();
     
     // Update wrangler.jsonc if exists
- //   updateWranglerJsonc();
+    updateWranglerJsonc();
     
     // Run setup commands
     runSetupCommands();
@@ -60,7 +60,6 @@ function updatePackageJson() {
     }
 }
 
-/*
 function updateWranglerJsonc() {
     if (!fs.existsSync('wrangler.jsonc')) {
         console.log('⊘ wrangler.jsonc not found, skipping');
@@ -76,7 +75,7 @@ function updateWranglerJsonc() {
         console.warn('⚠️  Failed to update wrangler.jsonc:', error.message);
     }
 }
-*/
+
 function runSetupCommands() {
     const commands = [
     "bun add react-markdown@^9.0.1",
